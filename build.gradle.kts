@@ -1,4 +1,3 @@
-
 plugins {
     kotlin("jvm") version "1.3.0"
     id ("org.springframework.boot") version "2.1.1.RELEASE"
